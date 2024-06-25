@@ -1,0 +1,1 @@
+- Password generator is basic made, will enhance it later, right now it just takes inputs and makes passwords, need gui and other features.
